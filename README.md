@@ -17,3 +17,7 @@
 
 ### [feature/setup-db-and-connect-express](https://github.com/Inquisitiveshri34/ASAP_TRY/tree/feature/setup-db-and-connect-express)
 - Connected MongoDB Atlas.
+
+### [feature/create-mongoose-schema](https://github.com/Inquisitiveshri34/ASAP_TRY/tree/feature/create-mongoose-schema)
+- **User** Schema Created
+- Endpoint to register user.
