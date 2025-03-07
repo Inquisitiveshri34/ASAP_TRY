@@ -1,6 +1,6 @@
 import express from "express"
 import dotenv from "dotenv"
-
+import { connectDB } from "./config/db.js"
 
 dotenv.config()
 
@@ -12,5 +12,6 @@ app.get("/ping",(req,res)=>{
 })
 
 app.listen(PORT,()=>{
+    connectDB()
     console.log(`Server is running on the port ${PORT}`)
 })
