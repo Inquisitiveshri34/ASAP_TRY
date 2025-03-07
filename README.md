@@ -14,3 +14,6 @@
 ### [feature/test-api-with-client-and-db](https://github.com/Inquisitiveshri34/ASAP_TRY/tree/feature/test-api-with-client-and-db)
 - Created folder **docs.bruno**
 - Request files added.
+
+### [feature/setup-db-and-connect-express](https://github.com/Inquisitiveshri34/ASAP_TRY/tree/feature/setup-db-and-connect-express)
+- Connected MongoDB Atlas.
